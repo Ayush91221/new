@@ -1,0 +1,40 @@
+
+hello this is ayush raj
+
+
+
+
+
+
+:w
+
+
+i is used for insertion
+escape or esc button for getting out of insert
+
+and then :WQ for quitting the file
+
+hgfoig
+fdgdf
+f
+g
+ff
+ds
+s
+f
+sd
+f
+sdf
+sd
+f
+sd
+fsdfsd
+f
+sdf
+sd
+f
+sd
+fsdf
+f
+d
+f
